@@ -11,6 +11,7 @@ TODO:
 - 時間制限を設ける
 - スコアに応じて、ターゲットの大きさを変化させる
 
+自分のPCで動かすには、Elmをインストール(https://guide.elm-lang.org/install/elm.html)してから、
 ```
 git clone https://github.com/topostaro/hogeki
 cd hogeki
