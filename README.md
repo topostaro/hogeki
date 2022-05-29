@@ -10,3 +10,9 @@ TODO:
 - スコア表示をする
 - 時間制限を設ける
 - スコアに応じて、ターゲットの大きさを変化させる
+
+```
+git clone https://github.com/topostaro/hogeki
+cd hogeki
+elm make src/Main.elm --output=output/main.js
+```
