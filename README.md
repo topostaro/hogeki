@@ -17,3 +17,4 @@ git clone https://github.com/topostaro/hogeki
 cd hogeki
 elm make src/Main.elm --output=output/main.js
 ```
+としてから、output/index.htmlをブラウザで開く。
